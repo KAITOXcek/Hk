@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "myreadingX \u2014 Manga Library",
+  "short_name": "myreadingX",
+  "description": "Your personal manga library and story workshop",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0e14",
+  "theme_color": "#111018",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
